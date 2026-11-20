@@ -1,0 +1,3 @@
+appimagetool
+*.AppImage
+__pycache__/

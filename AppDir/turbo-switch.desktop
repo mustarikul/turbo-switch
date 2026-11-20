@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Turbo Switch
+Comment=Disable Intel Turbo Boost now or at every boot
+Exec=turbo-switch
+Icon=turbo-switch
+Categories=System;Settings;
+Terminal=false
+StartupWMClass=io.github.turboswitch
